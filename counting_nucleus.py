@@ -36,3 +36,4 @@ for c in contours:
         cv2.waitKey(0)
         
 print("The number of cells in my microscopy figure is: ", total_nucleus)
+print("Testing git")
